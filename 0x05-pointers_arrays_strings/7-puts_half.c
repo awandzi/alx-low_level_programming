@@ -2,8 +2,8 @@
 /**
  * puts_half - a function that prints half of a string,
  * followed by a new line
- * followed by a new line
- * @s: string
+ * if odd len, n = (lenth_of_string - 1) / 2
+ * @str: input
  * Return: length
  */
 void puts_half(char *str)
