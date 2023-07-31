@@ -1,7 +1,6 @@
-#iinclude "main.h"
+#include "main.h"
 /**
- * print_chessboard - function that prints the sum of the two diagonals
- * of a square matrix of integers.
+ * print_chessboard - Entry point
  * @a: array
  * Return: Always 0 (Success)
  */
@@ -17,4 +16,3 @@ void print_chessboard(char (*a)[8])
 		_putchar('\n');
 	}
 }
-
