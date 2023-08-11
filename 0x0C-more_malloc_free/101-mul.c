@@ -5,7 +5,7 @@
 #define ERR_MSG "Error"
 
 /**
- * is_digit - a function that reallocates a memory block using malloc and free
+ * is_digit - a program that multiplies two positive numbers.
  * @s: string to be evaluated
  *
  * Return: 0 if a non-digit is found, 1 otherwise
